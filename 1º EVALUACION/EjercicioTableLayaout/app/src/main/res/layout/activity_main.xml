@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow>
+        <TextView
+            android:text="Año"
+            android:textColor="@color/colorAccent"/>
+        <TextView
+            android:text="Ciudad"
+            android:textColor="@color/colorAccent"/>
+        <TextView
+            android:text="Oro"
+            android:textColor="@color/colorAccent"/>
+        <TextView
+            android:text="Plata"
+            android:textColor="@color/colorAccent"/>
+        <TextView
+            android:text="Bronce"
+            android:textColor="@color/colorAccent"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="1900"/>
+        <TextView
+            android:text="Paris" />
+        <TextView
+            android:text="1"/>
+        <TextView
+            android:text=""/>
+        <TextView
+            android:text=""/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="1976"/>
+        <TextView
+            android:text="Montreal"/>
+        <TextView
+            android:text=""/>
+        <TextView
+            android:text="2"/>
+        <TextView
+            android:text=""/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="1992"/>
+        <TextView
+            android:text="Barcelona"/>
+        <TextView
+            android:text="13"/>
+        <TextView
+            android:text="7"/>
+        <TextView
+            android:text="2"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="2012"/>
+        <TextView
+            android:text="Londres"/>
+        <TextView
+            android:text="3"/>
+        <TextView
+            android:text="10"/>
+        <TextView
+            android:text="4"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text=""/>
+        <TextView
+            android:text="Total"
+            android:textColor="@color/colorPrimary"/>
+        <TextView
+            android:text="17"/>
+        <TextView
+            android:text="19"/>
+        <TextView
+            android:text="6"/>
+    </TableRow>
+
+
+</TableLayout>
